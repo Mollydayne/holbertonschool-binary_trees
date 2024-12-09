@@ -1,0 +1,13 @@
+# Ignore les fichiers de test avec des noms courts (une seule lettre)
+[a-zA-Z]
+
+*.swp
+*.swo
+*~
+*.o
+*.out
+*.exe
+
+*.log
+/build/
+.vscode
